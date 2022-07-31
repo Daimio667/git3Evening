@@ -9,3 +9,4 @@ gk,lbnfmbkln
 jkxbnkljglbvjbv,
 
 изменения
+плохой джун сделал конфликт
